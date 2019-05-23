@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/citasreact/static/css/main.4e9b3b55.chunk.css",
+    "main.js": "/citasreact/static/js/main.7e63c81a.chunk.js",
+    "main.js.map": "/citasreact/static/js/main.7e63c81a.chunk.js.map",
+    "runtime~main.js": "/citasreact/static/js/runtime~main.4f46ca0c.js",
+    "runtime~main.js.map": "/citasreact/static/js/runtime~main.4f46ca0c.js.map",
+    "static/js/2.cb5cb5a1.chunk.js": "/citasreact/static/js/2.cb5cb5a1.chunk.js",
+    "static/js/2.cb5cb5a1.chunk.js.map": "/citasreact/static/js/2.cb5cb5a1.chunk.js.map",
+    "index.html": "/citasreact/index.html",
+    "precache-manifest.30b7c7053929dafac51fa69698d12b8c.js": "/citasreact/precache-manifest.30b7c7053929dafac51fa69698d12b8c.js",
+    "service-worker.js": "/citasreact/service-worker.js",
+    "static/css/main.4e9b3b55.chunk.css.map": "/citasreact/static/css/main.4e9b3b55.chunk.css.map"
+  }
+}
